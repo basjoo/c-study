@@ -5,5 +5,7 @@ int main() {
 
   printf("Git update 1");
 
+  printf("Git update 2");
+
   return 0;
 }
